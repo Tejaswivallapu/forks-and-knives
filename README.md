@@ -146,11 +146,7 @@ We successfully performed a full end-to-end attack involving **stack canary brut
 ![image](https://github.com/user-attachments/assets/607bc546-f4ed-466b-8f92-4b35ec65ed20)
 ![image](https://github.com/user-attachments/assets/eafd8a51-06ea-4e4b-9054-d8e4ec590af4)
 ![image](https://github.com/user-attachments/assets/b001278d-d3d5-4b44-a04e-def30df67292)
----
 
-# Thank You!
-
----
 
 
 
